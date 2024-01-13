@@ -26,4 +26,4 @@
 
 ##
 
-![cobrinha] (https://github.com/bruna-g/bruna-g/blob.output/github-contribution-grid-snake.svg)
+![cobrinha](https://github.com/bruna-g/bruna-g/blob.output/github-contribution-grid-snake.svg)
