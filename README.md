@@ -1,6 +1,6 @@
 ### Olá! Me chamo Bruna =)
 
-- 💻 I'm a Science Computer student at UFC;
+- 💻 I'm a brazilian Science Computer student at UFC;
 
 <!-- card de status e de linguagens -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -19,12 +19,10 @@
 ##
 
 <!-- logo das redes sociais -->
-- 📌 You can find me here:
+- 📌 You can reach me here
 <div>
   <a href = "mailto:bruna_gcarneiro@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-gomes-ciencia-da-comp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
-![cobrinha](https://github.com/bruna-g/bruna-g/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/bruna-g/bruna-g/blob/output/github-contribution-grid-snake.svg)
