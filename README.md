@@ -1,13 +1,13 @@
 ### Olá! Me chamo Bruna =)
 
-- 💻 estudante de Ciência da Computação na UFC;
+- 💻 I'm a Science Computer student at UFC;
 
 <!-- card de status e de linguagens -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=bruna-g&hide=stars&show_icons=true&theme=radical&locale=pt-br&rank_icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=bruna-g&hide=stars&show_icons=true&theme=radical&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-g&layout=normal&theme=radical&locale=pt-br" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-g&layout=normal&theme=radical" />
 </a>
 
 <!-- logo das linguagens -->
@@ -19,6 +19,7 @@
 ##
 
 <!-- logo das redes sociais -->
+- 📌 You can find me here:
 <div>
   <a href = "mailto:bruna_gcarneiro@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-gomes-ciencia-da-comp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -26,4 +27,4 @@
 
 ##
 
-![cobrinha](https://github.com/bruna-g/bruna-g/blob.output/github-contribution-grid-snake.svg)
+![cobrinha](https://github.com/bruna-g/bruna-g/blob/output/github-contribution-grid-snake.svg)
