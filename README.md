@@ -10,6 +10,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-g&layout=normal&theme=radical" />
 </a>
 
+##
 <!-- logo das linguagens -->
 - 💡 Languagens I have experiecing with:
 <div style="display: inline_block"><br>
@@ -18,7 +19,6 @@
 </div>
 
 ##
-
 <!-- logo das redes sociais -->
 - 📌 You can reach me here:
 <div>
