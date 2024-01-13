@@ -4,16 +4,16 @@
 
 <!-- card de status e de linguagens -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bruna-g&hide=stars&show_icons=true&theme=radical&locale=pt-br&rank_icon=github" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=bruna-g&hide=stars&show_icons=true&theme=radical&locale=pt-br&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-g&layout=normal&theme=radical&locale=pt-br" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-g&layout=normal&theme=radical&locale=pt-br" />
 </a>
 
 <!-- logo das linguagens -->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruna-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bruna-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bruna-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
 ##
