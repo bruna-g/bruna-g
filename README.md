@@ -1,6 +1,6 @@
 ### Olá! Me chamo Bruna =)
 
-- 💻 I'm a brazilian Science Computer student at UFC;
+- 💻 I'm a brazilian Science Computer student at UFC
 
 <!-- card de status e de linguagens -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -12,7 +12,7 @@
 
 ##
 <!-- logo das linguagens -->
-- 💡 Languagens I have experiecing with:
+- 💡 Languagens I have experience with:
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bruna-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
