@@ -1,4 +1,4 @@
-#### Salut! I'm Bruna =)
+# Salut! I'm Bruna! 👋😺
 
 - 💻 I'm a brazilian Science Computer student at UFC
 
