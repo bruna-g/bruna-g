@@ -3,10 +3,10 @@
 - 💻 I'm a brazilian Science Computer student at UFC
 
 <!-- card de status e de linguagens -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=bruna-g&hide=stars&show_icons=true&theme=radical&rank_icon=github">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=bruna-g&hide=stars&show_icons=true&theme=radical&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-g&layout=normal&theme=radical">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna-g&layout=normal&theme=radical" />
 </a>
 
