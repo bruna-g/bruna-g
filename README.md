@@ -1,6 +1,6 @@
-# Salut! I'm Bruna! 👋😺
+# Hello! I'm Bruna! 👋😺
 
-- 💻 I'm a brazilian Science Computer student at UFC
+- 💻 I'm a brazilian Computer Science student at UFC
 
 <!-- card de status e de linguagens -->
 <a href="https://github-readme-stats.vercel.app/api?username=bruna-g&hide=stars&show_icons=true&theme=radical&rank_icon=github">
